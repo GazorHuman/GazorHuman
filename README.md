@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning about Discord Bots. 
 - 💬 Discord: Gazor#9319 (Ask me about anything, I love to answer!)
-- 📫 Email me at [contact@gazor.space](mailto:contact@gazor.space).
+- 📫 Email me at [GazorHuman@proton.me](mailto:GazorHuman@proton.me).
 
 **Languages and Tools**  
 
