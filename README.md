@@ -10,7 +10,7 @@
 **About Me**
 
 - 🌱 I’m currently learning about Java.
-- 💬 Discord: Gazor#9319 (Ask me about anything, I love to answer!)
+- 💬 Discord: gazorhuman (Ask me about anything, I love to answer!)
 - 📫 Email me at [GazorHuman@proton.me](mailto:GazorHuman@proton.me).
 
 **Languages and Tools**  
