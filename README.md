@@ -9,7 +9,7 @@
 
 **About Me**
 
-- 🌱 I’m currently learning about Java.
+- 🌱 Currently pursuing career as a Minecraft Developer
 - 💬 Discord: gazorhuman (Ask me about anything, I love to answer!)
 - 📫 Email me at [GazorHuman@proton.me](mailto:GazorHuman@proton.me).
 
@@ -17,6 +17,10 @@
 
 <a href="https://en.wikipedia.org/wiki/JavaScript">
 <img align="left" alt="Javascript" width="28px" src="https://img.icons8.com/nolan/96/javascript.png"/>
+</a>
+
+<a href="https://www.java.com/en/">
+<img align="left" alt="Java" width="28px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
 </a>
 
 <a href="https://nodejs.org/en/">
@@ -27,6 +31,10 @@
 <img align="left" alt="Visual Studio Code" width="28px" src="https://img.icons8.com/nolan/96/visual-studio.png"/>
 </a>
 
+<a href="https://www.jetbrains.com/idea/">
+<img align="left" alt="Intellij Idea" width="28px" src="https://img.icons8.com/color/48/intellij-idea.pngg"/>
+</a>
+
 <a href="https://www.mysql.com/">
 <img align="left" alt="MySQL" width="28px" src="https://img.icons8.com/nolan/96/sql.png"/>
 </a>
@@ -34,13 +42,3 @@
 <a href="https://www.docker.com/">
 <img align="left" alt="Docker" width="28px" src="https://img.icons8.com/nolan/344/docker.png"/>
 </a>
-<br />
-<br />
-
-**Statistics**
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=gazorhuman&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
-<br />
-<br />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazorhuman&count_private=true&theme=radical" alt="gazorhuman" />
