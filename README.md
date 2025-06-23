@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://www.jetbrains.com/idea/">
-<img align="left" alt="Intellij Idea" width="28px" src="https://img.icons8.com/color/48/intellij-idea.pngg"/>
+<img align="left" alt="Intellij Idea" width="28px" src="https://img.icons8.com/color/48/intellij-idea.png"/>
 </a>
 
 <a href="https://www.mysql.com/">
